@@ -1,7 +1,7 @@
 pip
 streamlit
 qrcode
-zbar-0.10-cp27-none-win_amd64.whl
+brew install zbar 
 Pillow
 pyqrcode
 pyzbar
