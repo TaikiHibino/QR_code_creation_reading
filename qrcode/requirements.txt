@@ -1,6 +1,7 @@
 pip
 streamlit
 qrcode
+yum install zbar
 Pillow
 pyqrcode
 pyzbar
