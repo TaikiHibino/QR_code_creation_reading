@@ -4,6 +4,5 @@ Pillow
 pyqrcode
 pyzbar
 decode
-brew install zbar
-
+zbar
 
