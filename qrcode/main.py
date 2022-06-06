@@ -2,7 +2,7 @@ import streamlit as st
 import qrcode
 import pyqrcode 
 from PIL import Image
-import pyzbar
+#import pyzbar
 from pyzbar.pyzbar import decode
 
 
