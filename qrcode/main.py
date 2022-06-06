@@ -1,5 +1,5 @@
 import streamlit as st
-#import qrcode
+import qrcode
 import pyqrcode 
 from PIL import Image
 import pyzbar
