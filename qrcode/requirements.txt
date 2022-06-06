@@ -1,7 +1,7 @@
 pip
 streamlit
 qrcode
-zbar
+zbar-0.10-cp27-none-win_amd64.whl
 Pillow
 pyqrcode
 pyzbar
