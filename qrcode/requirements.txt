@@ -1,6 +1,6 @@
-import streamlit==1.9.0
-import qrcode==7.3.1
-import pyqrcode
+import streamlit as st
+import qrcode
+import pyqrcode 
 from PIL import Image
-import pyzbar==0.1.9
-import decode==0.6.1
+import pyzbar
+from pyzbar.pyzbar import decode
