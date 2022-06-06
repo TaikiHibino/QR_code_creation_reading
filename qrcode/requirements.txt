@@ -1,8 +1,9 @@
 streamlit
 qrcode
 Pillow
+zbar
 pyqrcode
 pyzbar
 decode
-zbar
+
 
