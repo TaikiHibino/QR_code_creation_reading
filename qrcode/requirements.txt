@@ -1,6 +1,6 @@
 streamlit
 qrcode
-brew install zbar 
+zbar 
 Pillow
 pyqrcode
 pyzbar
