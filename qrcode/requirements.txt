@@ -1,9 +1,0 @@
-streamlit
-qrcode
-zbar 
-Pillow
-pyqrcode
-pyzbar
-
-
-
