@@ -1,6 +1,5 @@
 streamlit
-qrcode
-zbar 
+qrcode 
 Pillow
 pyqrcode
 pyzbar
